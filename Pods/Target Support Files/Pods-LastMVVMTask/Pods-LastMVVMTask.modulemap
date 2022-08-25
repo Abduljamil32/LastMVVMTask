@@ -1,0 +1,6 @@
+framework module Pods_LastMVVMTask {
+  umbrella header "Pods-LastMVVMTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
